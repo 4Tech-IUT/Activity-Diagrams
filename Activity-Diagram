@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T14:01:18.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5B3FBc16ubOJoasxghXB" version="20.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-16T14:07:03.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hd8BrNZVNQqC5kLva-oF" version="20.7.3" type="github" pages="3">
   <diagram id="Cp1i9-aFFOpjMui8wcD6" name="Visit-Web">
     <mxGraphModel dx="1562" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Login" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1008" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="638" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,17 +24,46 @@
         <mxCell id="zxs3epiwky37t3nYdRr7-43" value="وارد سایت می‌شود" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="3">
           <mxGeometry x="90" y="92" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zxs3epiwky37t3nYdRr7-45" value="" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="3">
-          <mxGeometry x="90" y="292" width="100" height="50" as="geometry" />
+        <mxCell id="zxs3epiwky37t3nYdRr7-45" value="کلیک برروی دکمه ورود" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="190" y="382" width="85" height="42" as="geometry" />
         </mxCell>
         <mxCell id="zxs3epiwky37t3nYdRr7-46" value="مشاهده صفحه خانه" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="3">
-          <mxGeometry x="90.5" y="222" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="182" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zxs3epiwky37t3nYdRr7-47" value="" style="shape=rhombus;html=1;verticalLabelPosition=bottom;verticalAlignment=top;" vertex="1" parent="3">
+          <mxGeometry x="120" y="282" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zxs3epiwky37t3nYdRr7-48" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;align=right;verticalAlign=bottom;endArrow=none;rounded=0;labelBackgroundColor=none;startArrow=open;startSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="zxs3epiwky37t3nYdRr7-47" parent="3" target="zxs3epiwky37t3nYdRr7-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxs3epiwky37t3nYdRr7-52" value="آیا فروشنده&amp;nbsp; یا صاحب کسب‌وکار هست؟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zxs3epiwky37t3nYdRr7-48">
+          <mxGeometry x="-0.3298" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxs3epiwky37t3nYdRr7-49" value="خیر (کاربر عادی)" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;entryX=0.586;entryY=-0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="zxs3epiwky37t3nYdRr7-47" parent="3" target="zxs3epiwky37t3nYdRr7-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="352" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="332" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxs3epiwky37t3nYdRr7-50" value="بله (صاحب کسب‌وکار)" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;" edge="1" source="zxs3epiwky37t3nYdRr7-47" parent="3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="352" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="332" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4" value="سامانه" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
         </mxCell>
         <mxCell id="zxs3epiwky37t3nYdRr7-44" value="نمایش صفحه خانه" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="4">
-          <mxGeometry x="90" y="162" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="152" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
