@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T13:59:14.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SE-N1_SI1klwVSVJRbiK" version="20.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-16T14:01:18.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5B3FBc16ubOJoasxghXB" version="20.7.3" type="github" pages="3">
   <diagram id="Cp1i9-aFFOpjMui8wcD6" name="Visit-Web">
     <mxGraphModel dx="1562" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,8 +12,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3" value="Client" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="444.5" y="128" width="280" height="570" as="geometry" />
+        <mxCell id="3" value="کاربر" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="445" y="128" width="280" height="570" as="geometry" />
         </mxCell>
         <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="3" vertex="1">
           <mxGeometry x="195.5" y="500" width="30" height="30" as="geometry" />
@@ -21,13 +21,20 @@
         <mxCell id="zxs3epiwky37t3nYdRr7-41" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="3">
           <mxGeometry x="125.5" y="32" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zxs3epiwky37t3nYdRr7-42" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="zxs3epiwky37t3nYdRr7-41" parent="3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140.5" y="122" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="zxs3epiwky37t3nYdRr7-43" value="وارد سایت می‌شود" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="90" y="92" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="System" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+        <mxCell id="zxs3epiwky37t3nYdRr7-45" value="" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="90" y="292" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zxs3epiwky37t3nYdRr7-46" value="مشاهده صفحه خانه" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="90.5" y="222" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="سامانه" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="280" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="zxs3epiwky37t3nYdRr7-44" value="نمایش صفحه خانه" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="4">
+          <mxGeometry x="90" y="162" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
