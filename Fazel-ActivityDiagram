@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T17:29:36.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QsEovJCqp16Rc6cCS9We" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-17T17:49:25.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="j-mTFCMZM8p7d8QTukQb" version="20.7.4" type="github" pages="5">
   <diagram name="رزرو" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1444" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -358,7 +358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rpUfnIBAHz_Fsn9gq1aD" name="مدیریت سامانه - تغییر سطح دسترسی">
-    <mxGraphModel dx="1323" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -616,6 +616,123 @@
             <Array as="points">
               <mxPoint x="700" y="451" />
               <mxPoint x="324" y="451" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QftCOTbvevHAZUJaoDVF" name="مدیریت سامانه - تعلیق کاربر">
+    <mxGraphModel dx="1134" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-1" value="ادمین" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="365.5" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-2" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.502;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="100" y="44" as="geometry">
+            <mxPoint x="115.21999999999991" y="94" as="targetPoint" />
+            <mxPoint x="115.5" y="66" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="115" y="86" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-4" value="انتخاب گزینه تعلیق کاربر" style="rounded=1;fontSize=12;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="60" y="92" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-6" value="جست‌وجوی نام کاربر" style="rounded=1;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="60" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-9" value="تایید" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;rounded=0;shadow=0;fontSize=10;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="80" y="447" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-10" value="خیر" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=10;" edge="1" parent="ogHBLoqoveTgmFpKKTn2-1" source="ogHBLoqoveTgmFpKKTn2-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="260" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-11" value="بله" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontSize=10;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ogHBLoqoveTgmFpKKTn2-1" source="ogHBLoqoveTgmFpKKTn2-9">
+          <mxGeometry x="-0.6433" y="10" relative="1" as="geometry">
+            <mxPoint x="70" y="571" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="466" />
+              <mxPoint x="70" y="546" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-12" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="260" y="453" width="30" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF3333;fontSize=10;endArrow=open;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ogHBLoqoveTgmFpKKTn2-1" source="ogHBLoqoveTgmFpKKTn2-14" target="ogHBLoqoveTgmFpKKTn2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-14" value="سلب کسب‌وکار" style="rounded=1;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="20" y="572" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-15" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="60" y="642" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-16" value="انتخاب مدت زمان" style="rounded=1;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-1">
+          <mxGeometry x="60" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-17" value="سامانه" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="515.5" y="30" width="370" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-18" value="نمایش جای جست‌وجو" style="rounded=1;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-17">
+          <mxGeometry x="124.5" y="92" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-19" value="نمایش پیغام تایید " style="rounded=1;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-17">
+          <mxGeometry x="130" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-24" value="نمایش مدت زمان تعلیق" style="rounded=1;" vertex="1" parent="ogHBLoqoveTgmFpKKTn2-17">
+          <mxGeometry x="144.5" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.024;entryY=0.52;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;fontSize=10;endArrow=open;endFill=0;" edge="1" parent="1" target="ogHBLoqoveTgmFpKKTn2-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="148" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;fontSize=10;endArrow=open;endFill=0;exitX=0.497;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ogHBLoqoveTgmFpKKTn2-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="695" y="210" />
+            </Array>
+            <mxPoint x="310" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;fontSize=10;endArrow=open;endFill=0;exitX=0.999;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ogHBLoqoveTgmFpKKTn2-16" target="ogHBLoqoveTgmFpKKTn2-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="305" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;fontSize=10;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ogHBLoqoveTgmFpKKTn2-19" target="ogHBLoqoveTgmFpKKTn2-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700.9999999999998" y="411" as="sourcePoint" />
+            <mxPoint x="260" y="471" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="701" y="451" />
+              <mxPoint x="260" y="451" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;fontSize=12;endArrow=open;endFill=0;exitX=1.018;exitY=0.733;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ogHBLoqoveTgmFpKKTn2-6" target="ogHBLoqoveTgmFpKKTn2-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogHBLoqoveTgmFpKKTn2-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;fontSize=10;endArrow=open;endFill=0;exitX=0.479;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ogHBLoqoveTgmFpKKTn2-24" target="ogHBLoqoveTgmFpKKTn2-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="254.77999999999997" y="330.25" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="713" y="320" />
+              <mxPoint x="255" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
