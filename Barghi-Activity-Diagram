@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T16:29:03.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="WZsU2jI-xCmxoIoW919R" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T16:47:05.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="uZz3EBuwoTgw5eNniupZ" version="20.7.4" type="github">
   <diagram name="جستجوی کسب‌وکار" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2731" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3122" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3" value="کاربر" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="-180" y="110" width="904.5" height="1450" as="geometry" />
+          <mxGeometry x="-180" y="110" width="964" height="1530" as="geometry" />
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="13" target="zPfWYPm_a7XQhgeyoZ85-42">
           <mxGeometry relative="1" as="geometry" />
@@ -95,6 +95,9 @@
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-71" value="GPS دیواس کاربر فعال می شود" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
           <mxGeometry x="480" y="572" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-53" target="zPfWYPm_a7XQhgeyoZ85-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-53" value="ملاحظه نقشه کسب‌وکار‌ها به شعاع 1 کیلومتری اطراف" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
           <mxGeometry x="360" y="920" width="120" height="58" as="geometry" />
         </mxCell>
@@ -153,20 +156,120 @@
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-100" value="" style="shape=rhombus;html=1;verticalLabelPosition=bottom;verticalAlignment=top;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" vertex="1" parent="3">
           <mxGeometry x="400" y="840" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="سامانه" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="724.5" y="128" width="280" height="1432" as="geometry" />
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.108;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-104" target="zPfWYPm_a7XQhgeyoZ85-127">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="4" vertex="1">
-          <mxGeometry x="130" y="500" width="30" height="30" as="geometry" />
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-104" value="انتخاب دسته بندی کسب‌وکارها" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+          <mxGeometry x="207.5" y="1080" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-105" target="38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-105" value="انتخاب کسب‌وکار مورد نظر" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+          <mxGeometry x="415" y="1404" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="3" vertex="1">
+          <mxGeometry x="459.5" y="1490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.371;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-107" target="zPfWYPm_a7XQhgeyoZ85-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-107" value="کاربر بر اساس فاصله یا امکانات می‌تواند فیلتر کند" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+          <mxGeometry x="347.5" y="1080" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-108" target="zPfWYPm_a7XQhgeyoZ85-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-108" value="کاربر می‌تواند از نقشه خارج شود و وارد لیست کامل کسب‌وکار‌ها شود" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+          <mxGeometry x="482.5" y="1080" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.628;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-109" target="zPfWYPm_a7XQhgeyoZ85-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-109" value="کاربر می‌تواند ترتیب لیست کسب‌وکارها را بر اساس موارد مختلف مانند قیمت، فاصله و ... مرتب کند" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+          <mxGeometry x="482.5" y="1240" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-110" value="Zoom Out/IN&lt;br&gt;برروی نقشه" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+          <mxGeometry x="620" y="1080" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.887;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-111" target="zPfWYPm_a7XQhgeyoZ85-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-111" value="نمایش جزئیات جدید نقشه کسب‌وکارها" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+          <mxGeometry x="620" y="1240" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-112" value="جا‌به‌جایی برروی نقشه کسب‌وکارها" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+          <mxGeometry x="750" y="1080" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-127" target="zPfWYPm_a7XQhgeyoZ85-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-127" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" vertex="1" parent="3">
+          <mxGeometry x="210" y="1360" width="530" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-134" target="zPfWYPm_a7XQhgeyoZ85-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="1045" />
+              <mxPoint x="268" y="1045" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-134" target="zPfWYPm_a7XQhgeyoZ85-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="1045" />
+              <mxPoint x="408" y="1045" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-134" target="zPfWYPm_a7XQhgeyoZ85-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1045" />
+              <mxPoint x="543" y="1045" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-134" target="zPfWYPm_a7XQhgeyoZ85-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1040" />
+              <mxPoint x="680" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-134" target="zPfWYPm_a7XQhgeyoZ85-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="1030" />
+              <mxPoint x="810" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-134" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" vertex="1" parent="3">
+          <mxGeometry x="320" y="1000" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="سامانه" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="784" y="110" width="280" height="1530" as="geometry" />
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="4" source="zPfWYPm_a7XQhgeyoZ85-43" target="zPfWYPm_a7XQhgeyoZ85-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-43" value="دریافت موقعیت مکانی کاربر" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="4">
-          <mxGeometry x="85" y="628" width="120" height="58" as="geometry" />
+          <mxGeometry x="85" y="646" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-52" value="نمایش موقعیت مکانی و نقشه کسب وکار‌های اطراف کاربر به شعاع 1 کیلومتر" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="4">
-          <mxGeometry x="85" y="813" width="120" height="58" as="geometry" />
+          <mxGeometry x="85" y="831" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-113" value="بارگذاری اطلاعات جدید نقشه کسب‌وکار بر اساس خواسته کاربر" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="4">
+          <mxGeometry x="85" y="1170" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="4" source="zPfWYPm_a7XQhgeyoZ85-114" target="zPfWYPm_a7XQhgeyoZ85-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-114" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;rotation=-90;" vertex="1" parent="4">
+          <mxGeometry x="6" y="1194" width="62.25" height="10" as="geometry" />
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-41" value="جستجوی کسب‌وکار" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;" vertex="1" parent="1">
           <mxGeometry x="460" y="35" width="180" height="40" as="geometry" />
@@ -176,6 +279,29 @@
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="1" source="zPfWYPm_a7XQhgeyoZ85-52" target="zPfWYPm_a7XQhgeyoZ85-100">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.645;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="1" source="zPfWYPm_a7XQhgeyoZ85-112" target="zPfWYPm_a7XQhgeyoZ85-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.334;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="1" source="zPfWYPm_a7XQhgeyoZ85-110" target="zPfWYPm_a7XQhgeyoZ85-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="1329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="1" source="zPfWYPm_a7XQhgeyoZ85-113" target="zPfWYPm_a7XQhgeyoZ85-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="929" y="1380" />
+              <mxPoint x="715" y="1380" />
+              <mxPoint x="715" y="1379" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
