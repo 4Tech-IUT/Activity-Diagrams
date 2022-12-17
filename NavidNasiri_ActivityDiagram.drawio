@@ -1,64 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T18:42:52.956Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GKm7AyzC51oCGZoCh_jp" version="20.7.4" type="github" pages="6">
-  <diagram id="jzuPJr4FWML4jHE6doJl" name="مشاهده صفحه اصلی وب سایت">
-    <mxGraphModel dx="1009" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-1" value="کاربر" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="444.5" y="128" width="280" height="322" as="geometry" />
-        </mxCell>
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-2" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="Qplo-CYy1ENvtHr_DyG8-1" vertex="1">
-          <mxGeometry x="125" y="32" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-7" value="وارد کردن آدرس سایت در مرورگر" style="rounded=1;whiteSpace=wrap;html=1;" parent="Qplo-CYy1ENvtHr_DyG8-1" vertex="1">
-          <mxGeometry x="80.5" y="82" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.502;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="Qplo-CYy1ENvtHr_DyG8-1" source="Qplo-CYy1ENvtHr_DyG8-2" target="Qplo-CYy1ENvtHr_DyG8-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="225.5" y="112" as="sourcePoint" />
-            <mxPoint x="275.5" y="62" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-10" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="Qplo-CYy1ENvtHr_DyG8-1" vertex="1">
-          <mxGeometry x="125" y="282" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="c0GyZITol2KW9w82RKDo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="Qplo-CYy1ENvtHr_DyG8-1" source="c0GyZITol2KW9w82RKDo-48" target="Qplo-CYy1ENvtHr_DyG8-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="c0GyZITol2KW9w82RKDo-48" value="مشاهده صفحه اصلی وب‌سایت" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qplo-CYy1ENvtHr_DyG8-1">
-          <mxGeometry x="80.5" y="192" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-9" value="سامانه" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="724.5" y="128" width="284.5" height="322" as="geometry" />
-        </mxCell>
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-12" value="نمایش صفحه اصلی وب‌سایت" style="rounded=1;whiteSpace=wrap;html=1;" parent="Qplo-CYy1ENvtHr_DyG8-9" vertex="1">
-          <mxGeometry x="80" y="82" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gXIjf-tT5cLl_wDf79tV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qplo-CYy1ENvtHr_DyG8-7" target="Qplo-CYy1ENvtHr_DyG8-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="c0GyZITol2KW9w82RKDo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qplo-CYy1ENvtHr_DyG8-12" target="c0GyZITol2KW9w82RKDo-48">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="865" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2022-12-17T18:57:50.953Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="55NVeZLO3YUVtwxruhro" version="20.7.4" type="github" pages="5">
   <diagram id="eYNjurMh_SfmkhiyjVjm" name="ورود">
-    <mxGraphModel dx="877" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="721" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_tu6Yyxf04oQDMpdiVpN-1" value="کاربر" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="380" y="128" width="280" height="812" as="geometry" />
+        <mxCell id="_tu6Yyxf04oQDMpdiVpN-1" value="کاربر" style="swimlane;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="280" height="812" as="geometry" />
         </mxCell>
         <mxCell id="_tu6Yyxf04oQDMpdiVpN-2" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="_tu6Yyxf04oQDMpdiVpN-1" vertex="1">
           <mxGeometry x="125" y="32" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_tu6Yyxf04oQDMpdiVpN-8" value="&amp;nbsp;فشردن دکمه ورود مشتری/کسب‌و‌کار" style="rounded=1;whiteSpace=wrap;html=1;" parent="_tu6Yyxf04oQDMpdiVpN-1" vertex="1">
+        <mxCell id="_tu6Yyxf04oQDMpdiVpN-8" value="&amp;nbsp;کلیک روی دکمه ورود مشتری/کسب‌و‌کار" style="rounded=1;whiteSpace=wrap;html=1;" parent="_tu6Yyxf04oQDMpdiVpN-1" vertex="1">
           <mxGeometry x="80.5" y="82" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_tu6Yyxf04oQDMpdiVpN-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.502;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="_tu6Yyxf04oQDMpdiVpN-1" source="_tu6Yyxf04oQDMpdiVpN-2" target="_tu6Yyxf04oQDMpdiVpN-8" edge="1">
@@ -70,11 +22,33 @@
         <mxCell id="dQ-dHQHhgLOupw16XH53-3" value="وارد کردن اطلاعات لازم برای ورود" style="rounded=1;whiteSpace=wrap;html=1;" parent="_tu6Yyxf04oQDMpdiVpN-1" vertex="1">
           <mxGeometry x="80.5" y="192" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_tu6Yyxf04oQDMpdiVpN-10" value="سامانه" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="660" y="128" width="280" height="812" as="geometry" />
+        <mxCell id="T5niAKE431ztmeJheX4L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="_tu6Yyxf04oQDMpdiVpN-1" source="T5niAKE431ztmeJheX4L-1" target="dQ-dHQHhgLOupw16XH53-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="540" />
+              <mxPoint x="60" y="222" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="_tu6Yyxf04oQDMpdiVpN-11" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="_tu6Yyxf04oQDMpdiVpN-10" vertex="1">
-          <mxGeometry x="135" y="772" width="30" height="30" as="geometry" />
+        <mxCell id="T5niAKE431ztmeJheX4L-1" value="مشاهده پیغام خطا" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_tu6Yyxf04oQDMpdiVpN-1">
+          <mxGeometry x="100" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T5niAKE431ztmeJheX4L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="_tu6Yyxf04oQDMpdiVpN-1" source="T5niAKE431ztmeJheX4L-3" target="_tu6Yyxf04oQDMpdiVpN-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="412" />
+              <mxPoint x="40" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T5niAKE431ztmeJheX4L-3" value="مشاهده صفحه اصلی" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_tu6Yyxf04oQDMpdiVpN-1">
+          <mxGeometry x="100" y="382" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_tu6Yyxf04oQDMpdiVpN-11" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="_tu6Yyxf04oQDMpdiVpN-1" vertex="1">
+          <mxGeometry x="125" y="660" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_tu6Yyxf04oQDMpdiVpN-10" value="سامانه" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="640" y="120" width="280" height="812" as="geometry" />
         </mxCell>
         <mxCell id="_tu6Yyxf04oQDMpdiVpN-13" value="نمایش فرم ورود" style="rounded=1;whiteSpace=wrap;html=1;" parent="_tu6Yyxf04oQDMpdiVpN-10" vertex="1">
           <mxGeometry x="80" y="82" width="120" height="60" as="geometry" />
@@ -95,58 +69,50 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="140" y="372" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="90" y="292" />
-              <mxPoint x="90" y="347" />
+              <mxPoint x="70" y="292" />
+              <mxPoint x="70" y="347" />
               <mxPoint x="140" y="347" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dQ-dHQHhgLOupw16XH53-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_tu6Yyxf04oQDMpdiVpN-10" source="dQ-dHQHhgLOupw16XH53-9" target="_tu6Yyxf04oQDMpdiVpN-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="70" y="412" />
-              <mxPoint x="70" y="787" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dQ-dHQHhgLOupw16XH53-9" value="ورود با موفقیت انجام&amp;nbsp; شد و نمایش صفحه اصلی" style="rounded=1;whiteSpace=wrap;html=1;" parent="_tu6Yyxf04oQDMpdiVpN-10" vertex="1">
+        <mxCell id="dQ-dHQHhgLOupw16XH53-9" value="ورود با موفقیت انجام&amp;nbsp; شد" style="rounded=1;whiteSpace=wrap;html=1;" parent="_tu6Yyxf04oQDMpdiVpN-10" vertex="1">
           <mxGeometry x="90" y="382" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dQ-dHQHhgLOupw16XH53-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_tu6Yyxf04oQDMpdiVpN-10" source="dQ-dHQHhgLOupw16XH53-11" target="dQ-dHQHhgLOupw16XH53-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dQ-dHQHhgLOupw16XH53-11" value="ورود با شکست مواجه شد. نمایش پیغام &quot;اطلاعات وارد شده نادرست است&quot;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="_tu6Yyxf04oQDMpdiVpN-10" vertex="1">
+        <mxCell id="dQ-dHQHhgLOupw16XH53-11" value="ورود با شکست مواجه شد" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="_tu6Yyxf04oQDMpdiVpN-10" vertex="1">
           <mxGeometry x="90" y="502" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dQ-dHQHhgLOupw16XH53-15" value="ماندن در صفحه ورود." style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="_tu6Yyxf04oQDMpdiVpN-10" vertex="1">
-          <mxGeometry x="90" y="612" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dQ-dHQHhgLOupw16XH53-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_tu6Yyxf04oQDMpdiVpN-8" target="_tu6Yyxf04oQDMpdiVpN-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dQ-dHQHhgLOupw16XH53-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_tu6Yyxf04oQDMpdiVpN-13" target="dQ-dHQHhgLOupw16XH53-3" edge="1">
+        <mxCell id="dQ-dHQHhgLOupw16XH53-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_tu6Yyxf04oQDMpdiVpN-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="350" />
+              <mxPoint x="800" y="340" />
+              <mxPoint x="560" y="340" />
             </Array>
+            <mxPoint x="560" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dQ-dHQHhgLOupw16XH53-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dQ-dHQHhgLOupw16XH53-3" target="dQ-dHQHhgLOupw16XH53-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="380" />
+              <mxPoint x="501" y="380" />
+              <mxPoint x="780" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dQ-dHQHhgLOupw16XH53-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="dQ-dHQHhgLOupw16XH53-15" target="dQ-dHQHhgLOupw16XH53-3" edge="1">
+        <mxCell id="T5niAKE431ztmeJheX4L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.351;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" edge="1" parent="1" source="dQ-dHQHhgLOupw16XH53-11" target="T5niAKE431ztmeJheX4L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T5niAKE431ztmeJheX4L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="dQ-dHQHhgLOupw16XH53-9" target="T5niAKE431ztmeJheX4L-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="j_4lF2TnYrUkIn-BD6Nx" name="فراموشی رمز عبور">
-    <mxGraphModel dx="1261" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1441" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
