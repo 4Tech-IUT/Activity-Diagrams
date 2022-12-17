@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T17:45:21.867Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.7.4" etag="ZUz6Tha6QGV1ODtwgazS" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-17T17:48:21.306Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.7.4" etag="vH8LkkVv57zJdYx6wXcD" type="github" pages="3">
   <diagram id="jzuPJr4FWML4jHE6doJl" name="مشاهده صفحه اصلی وب سایت">
     <mxGraphModel dx="1050" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
         <mxCell id="_EeV2pvHh_03oFMxPq-b-2" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="_EeV2pvHh_03oFMxPq-b-1">
           <mxGeometry x="125" y="32" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_EeV2pvHh_03oFMxPq-b-3" value="فشردن دکمه ورود" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_EeV2pvHh_03oFMxPq-b-1">
+        <mxCell id="_EeV2pvHh_03oFMxPq-b-3" value="فشردن دکمه ورود مشتری/کسب‌و‌کار" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="_EeV2pvHh_03oFMxPq-b-1">
           <mxGeometry x="80.5" y="82" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_EeV2pvHh_03oFMxPq-b-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.502;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="_EeV2pvHh_03oFMxPq-b-1" source="_EeV2pvHh_03oFMxPq-b-2" target="_EeV2pvHh_03oFMxPq-b-3">
