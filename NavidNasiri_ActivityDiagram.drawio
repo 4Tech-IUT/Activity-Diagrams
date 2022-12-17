@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T18:01:51.055Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Avw9z1dhVOFU_53PiroZ" version="20.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-17T18:14:34.734Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="WcJPh1B0mtsBngdPjYCL" version="20.7.4" type="github" pages="6">
   <diagram id="jzuPJr4FWML4jHE6doJl" name="مشاهده صفحه اصلی وب سایت">
     <mxGraphModel dx="1050" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -19,16 +19,17 @@
             <mxPoint x="275.5" y="62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Qplo-CYy1ENvtHr_DyG8-10" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="Qplo-CYy1ENvtHr_DyG8-1" vertex="1">
+          <mxGeometry x="125" y="282" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0GyZITol2KW9w82RKDo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="Qplo-CYy1ENvtHr_DyG8-1" source="c0GyZITol2KW9w82RKDo-48" target="Qplo-CYy1ENvtHr_DyG8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0GyZITol2KW9w82RKDo-48" value="مشاهده صفحه اصلی وب‌سایت" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Qplo-CYy1ENvtHr_DyG8-1">
+          <mxGeometry x="80.5" y="192" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Qplo-CYy1ENvtHr_DyG8-9" value="سامانه" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="724.5" y="128" width="284.5" height="322" as="geometry" />
-        </mxCell>
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-10" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="Qplo-CYy1ENvtHr_DyG8-9" vertex="1">
-          <mxGeometry x="125" y="212" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qplo-CYy1ENvtHr_DyG8-11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="Qplo-CYy1ENvtHr_DyG8-9" target="Qplo-CYy1ENvtHr_DyG8-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="192" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Qplo-CYy1ENvtHr_DyG8-12" value="نمایش صفحه اصلی وب‌سایت" style="rounded=1;whiteSpace=wrap;html=1;" parent="Qplo-CYy1ENvtHr_DyG8-9" vertex="1">
           <mxGeometry x="80" y="82" width="120" height="60" as="geometry" />
@@ -36,9 +37,11 @@
         <mxCell id="gXIjf-tT5cLl_wDf79tV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qplo-CYy1ENvtHr_DyG8-7" target="Qplo-CYy1ENvtHr_DyG8-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gXIjf-tT5cLl_wDf79tV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Qplo-CYy1ENvtHr_DyG8-12" edge="1">
+        <mxCell id="c0GyZITol2KW9w82RKDo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qplo-CYy1ENvtHr_DyG8-12" target="c0GyZITol2KW9w82RKDo-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="864.5" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="865" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
