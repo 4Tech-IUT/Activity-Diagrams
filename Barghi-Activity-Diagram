@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T16:47:05.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="uZz3EBuwoTgw5eNniupZ" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T16:48:33.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="haDX3VYSAlUU5qISivVs" version="20.7.4" type="github">
   <diagram name="جستجوی کسب‌وکار" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="3122" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2813" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,7 +186,7 @@
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.628;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" edge="1" parent="3" source="zPfWYPm_a7XQhgeyoZ85-109" target="zPfWYPm_a7XQhgeyoZ85-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zPfWYPm_a7XQhgeyoZ85-109" value="کاربر می‌تواند ترتیب لیست کسب‌وکارها را بر اساس موارد مختلف مانند قیمت، فاصله و ... مرتب کند" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-109" value="تغییر ترتیب لیست کسب‌وکارها بر اساس موارد مختلف مانند قیمت، فاصله و ..." style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
           <mxGeometry x="482.5" y="1240" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-110" value="Zoom Out/IN&lt;br&gt;برروی نقشه" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" vertex="1" parent="3">
