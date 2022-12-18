@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T12:10:04.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vd-ZPkvC1c9vSkpNI4Ku" version="20.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-18T12:24:05.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LlzNq4vhhFiwDv30dEOS" version="20.7.4" type="github" pages="3">
   <diagram name="جستجوی کسب‌وکار" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="3252" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2471" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,18 +16,13 @@
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" parent="3" source="zPfWYPm_a7XQhgeyoZ85-42" target="zPfWYPm_a7XQhgeyoZ85-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zPfWYPm_a7XQhgeyoZ85-49" value="GPS کاربر روشن است؟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=vazirmatn;" parent="zPfWYPm_a7XQhgeyoZ85-48" vertex="1" connectable="0">
-          <mxGeometry x="0.2306" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-42" value="کاربر وارد پلتفرم می‌شود" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" parent="3" vertex="1">
           <mxGeometry x="425" y="92" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" parent="3" source="zPfWYPm_a7XQhgeyoZ85-44" target="zPfWYPm_a7XQhgeyoZ85-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zPfWYPm_a7XQhgeyoZ85-99" value="بله" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=vazirmatn;" parent="zPfWYPm_a7XQhgeyoZ85-98" vertex="1" connectable="0">
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-99" value="GPS روشن است" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=vazirmatn;" parent="zPfWYPm_a7XQhgeyoZ85-98" vertex="1" connectable="0">
           <mxGeometry x="-0.707" y="-2" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
@@ -35,8 +30,8 @@
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-44" value="" style="shape=rhombus;html=1;verticalLabelPosition=bottom;verticalAlignment=top;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" parent="3" vertex="1">
           <mxGeometry x="455" y="232" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zPfWYPm_a7XQhgeyoZ85-47" value="خیر" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3" source="zPfWYPm_a7XQhgeyoZ85-44" target="zPfWYPm_a7XQhgeyoZ85-54" edge="1">
-          <mxGeometry x="-0.4444" relative="1" as="geometry">
+        <mxCell id="zPfWYPm_a7XQhgeyoZ85-47" value="GPS خاموش است" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;verticalAlign=bottom;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3" source="zPfWYPm_a7XQhgeyoZ85-44" target="zPfWYPm_a7XQhgeyoZ85-54" edge="1">
+          <mxGeometry x="0.1111" y="-2" relative="1" as="geometry">
             <mxPoint x="370" y="292" as="targetPoint" />
             <Array as="points">
               <mxPoint x="390.5" y="252" />
@@ -49,11 +44,6 @@
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;" parent="3" source="zPfWYPm_a7XQhgeyoZ85-54" target="zPfWYPm_a7XQhgeyoZ85-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zPfWYPm_a7XQhgeyoZ85-67" value="GPS روشن شود؟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=vazirmatn;" parent="zPfWYPm_a7XQhgeyoZ85-63" vertex="1" connectable="0">
-          <mxGeometry x="-0.2922" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zPfWYPm_a7XQhgeyoZ85-54" value="مشاهده پیغام روشن کردن GPS" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" parent="3" vertex="1">
           <mxGeometry x="355" y="292" width="100" height="50" as="geometry" />
@@ -313,11 +303,6 @@
         <mxCell id="E_yEjPDOONlrSG0BDZld-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=13;" parent="4" source="E_yEjPDOONlrSG0BDZld-54" target="E_yEjPDOONlrSG0BDZld-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E_yEjPDOONlrSG0BDZld-61" value="آیا همچنان رکوردی بر اساس خواسته کاربر وجود دارد" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=vazirmatn;" parent="E_yEjPDOONlrSG0BDZld-59" vertex="1" connectable="0">
-          <mxGeometry x="-0.2375" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="E_yEjPDOONlrSG0BDZld-54" value="جستجو بر اساس درخواست‌های کاربر در دیتابیس" style="html=1;dashed=0;whitespace=wrap;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=11;whiteSpace=wrap;spacing=2;" parent="4" vertex="1">
           <mxGeometry x="80" y="1360" width="120" height="58" as="geometry" />
         </mxCell>
@@ -329,9 +314,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_yEjPDOONlrSG0BDZld-65" value="خیر" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=vazirmatn;" parent="E_yEjPDOONlrSG0BDZld-63" vertex="1" connectable="0">
+        <mxCell id="E_yEjPDOONlrSG0BDZld-65" value="نتیجه یافت نشد" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=vazirmatn;" parent="E_yEjPDOONlrSG0BDZld-63" vertex="1" connectable="0">
           <mxGeometry x="-0.5407" y="-1" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
+            <mxPoint x="10" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E_yEjPDOONlrSG0BDZld-66" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=vazirmatn;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dvazirmatn;fontSize=12;" parent="4" source="E_yEjPDOONlrSG0BDZld-58" target="E_yEjPDOONlrSG0BDZld-64" edge="1">
@@ -341,7 +326,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E_yEjPDOONlrSG0BDZld-67" value="بله" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=vazirmatn;" parent="E_yEjPDOONlrSG0BDZld-66" vertex="1" connectable="0">
+        <mxCell id="E_yEjPDOONlrSG0BDZld-67" value="نتیجه یافت شد" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=vazirmatn;" parent="E_yEjPDOONlrSG0BDZld-66" vertex="1" connectable="0">
           <mxGeometry x="-0.5162" y="-1" relative="1" as="geometry">
             <mxPoint y="-9" as="offset" />
           </mxGeometry>
